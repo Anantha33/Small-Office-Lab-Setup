@@ -56,3 +56,4 @@ show interfaces trunk
 show ip interface brief
 show ip route
 ping <destination>
+```
